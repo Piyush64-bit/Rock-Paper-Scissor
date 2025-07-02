@@ -2,7 +2,7 @@
 
 > *The classic game you love, but make it ✨ **aesthetic** ✨*
 
-![License](https://img.shields.io/github/license/piyush64-bit/Rock-Paper-Sissor)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![React](https://img.shields.io/badge/React-18.3.1-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue)
 ![Vite](https://img.shields.io/badge/Vite-7.0.0-646CFF)
